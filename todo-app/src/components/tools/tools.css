@@ -1,0 +1,37 @@
+.sort-button {
+  width: 140px;
+}
+
+.sort-by-text {
+  margin-right: 10px;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -5px;
+}
+
+.filter-button {
+  width: 100px;
+  height: 21px;
+}
+
+.reset {
+  margin-top: 10px;
+  width: 100%;
+}
+
+span {
+  margin: 5px 0;
+}
+
+.react-datepicker__input-container:first-child {
+  width: 160px;
+}

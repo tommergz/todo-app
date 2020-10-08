@@ -1,0 +1,28 @@
+li {
+  list-style-type: none;
+}
+
+.current-task {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.task-description {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.task-done {
+  color: rgb(39, 223, 39);
+}
+
+span {
+  padding-right: 20px;
+}
+
+.margin-for-button {
+  margin-left: 10px;
+}

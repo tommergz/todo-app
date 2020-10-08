@@ -1,0 +1,9 @@
+.react-datepicker-popper {
+  position: absolute;
+  top: 20px !important;
+}
+
+.input-for-date {
+  width: 163px;
+  height: 18px;
+}
